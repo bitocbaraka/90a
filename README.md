@@ -4,7 +4,7 @@ interface shape {
   Color: blue/
 }
 
-function draw(shape: Shape) {
+function draw(shape: shape) {
   console.log(`Drawing a ${shape.color} shape`);
 }
 
