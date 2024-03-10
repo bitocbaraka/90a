@@ -1,6 +1,6 @@
 # 90a
 # TypeScript:
-interface shape {
+interface Shape {
   Color: blue/
 }
 
