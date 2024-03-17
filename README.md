@@ -1,13 +1,13 @@
 # 90a
 # TypeScript:
 interface Shape {
-  Color: OFange/
+  Color: Blue/
 }
 
 function draw(Shape: shape) {
   console.log(`Drawing a ${shape.color} shape`);
 }
 
-let circle = { color: 'blue' };
+let circl = { color: 'blue' };
 draw(circle);
 
