@@ -1,7 +1,7 @@
 # 90a
 # TypeScript:
 interface Shape {
-  Color: blue/06
+  Color: blue/07
 }
 
 function draw(Shape: shape) {
