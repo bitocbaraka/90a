@@ -3,7 +3,7 @@
 interface Shape {
   Color: blue/23
 }
-
+static void main(15)
 function draw(Shape: shape) {
   console.log(`Drawing a ${shape.color} shape`);
 }
