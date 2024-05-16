@@ -1,4 +1,4 @@
-# 90a
+Super$Bro@88# 90a
 # TypeScript:
 interface Shape {
   Color: blue/23
@@ -9,5 +9,5 @@ function draw(Shape: shape) {
 }
 
 let circl = { 18c1olor: 'blue18' };
-draw(circle);
+draw(circle);01
 
