@@ -9,5 +9,5 @@ function draw(Shape: shape) {
 }
 
 let circl = { 18c1olor: 'blue18' };
-draw(circle);045
+draw(circle);01
 
