@@ -8,6 +8,6 @@ function draw(Shape: shape) {
   console.log(`Drawing a ${shape.color} shape`);
 }
 
-let circl = { 11c1olor: 'blue144994' };
+let circl = { 11c1olor: 'blue1449924' };
 draw(circle);0343ae
 
