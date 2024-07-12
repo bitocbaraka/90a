@@ -1,7 +1,7 @@
 Super$Bro@88# 90a
 # TypeScript:
 interface Shape {
-  Color: blue/23
+  Color: blue/25
 }
 static void main(181)
 function draw(Shape: shape) {
